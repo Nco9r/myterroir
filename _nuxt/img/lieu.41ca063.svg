@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="86" viewBox="0 0 86 86">
+  <g id="Groupe_103" data-name="Groupe 103" transform="translate(3963 -2593)">
+    <g id="Groupe_49" data-name="Groupe 49" transform="translate(-3963 2593)">
+      <g id="Ellipse_2" data-name="Ellipse 2" fill="none" stroke="#3c3c3c" stroke-width="1">
+        <circle cx="43" cy="43" r="43" stroke="none"/>
+        <circle cx="43" cy="43" r="42.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Groupe_98" data-name="Groupe 98" transform="translate(4 4.99)">
+      <g id="pin" transform="translate(-3939 2608.621)">
+        <path id="Tracé_1628" data-name="Tracé 1628" d="M108.371,7.6A15.064,15.064,0,0,0,95.571,0c-.227,0-.456,0-.683,0a15.064,15.064,0,0,0-12.8,7.6,15.454,15.454,0,0,0-.2,15.27L92.894,43.018l.015.027a2.676,2.676,0,0,0,4.642,0l.015-.027,11.007-20.148a15.454,15.454,0,0,0-.2-15.27ZM95.229,20.114a6.242,6.242,0,1,1,6.242-6.242A6.249,6.249,0,0,1,95.229,20.114Z" transform="translate(-79.968 0)" fill="#151c36"/>
+      </g>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="6.5" cy="6.5" r="6.5" transform="translate(-3930 2616.01)" fill="#e96328"/>
+    </g>
+  </g>
+</svg>
